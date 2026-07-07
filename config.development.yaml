@@ -1,0 +1,3 @@
+workers: 9
+debug: true
+log_level: error
